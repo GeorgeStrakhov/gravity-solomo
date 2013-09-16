@@ -188,3 +188,7 @@ ul, ol, div, p {
 .reveal small a {
 	font-size: 16pt !important;
 }
+
+.topmenu {
+	display: none !important;
+}
