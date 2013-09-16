@@ -80,7 +80,7 @@ input {
 .topmenu ul li a {
   font-size: 1.4em;
   display: inline;
-  padding: 2px;
+  padding-top: 3px;
   padding-left: 4px;
   padding-right: 4px;
   border-right: 6px solid #000;
